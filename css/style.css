@@ -1,0 +1,48 @@
+body {
+  /* font-family: "Indie Flower", cursive; */
+
+  /* padding-top: 70px; */
+}
+
+.carousel-control-prev {
+  margin-left: -100px;
+  filter: invert(100%);
+}
+
+.carousel-control-next {
+  margin-right: -100px;
+  filter: invert(100%);
+}
+
+.firstpage {
+  height: 615px;
+  /* width: 200; */
+  border-bottom-left-radius: 550px;
+  border-bottom-right-radius: 550px;
+  background: url("../images/backgroud.png");
+}
+
+.onmainpage {
+  color: white;
+}
+
+.mypic {
+  margin-top: 50px;
+  float: left;
+  width: 450px;
+  height: 490px;
+
+  /* background-position:  bottom; */
+}
+
+.mainpageContent {
+  font-family: "Caveat", cursive;
+  font-size: x-large;
+  margin-top: 170px;
+}
+
+.iconOfExp {
+  float: right;
+  width: 60px;
+  height: 25px;
+}
